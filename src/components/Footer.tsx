@@ -17,7 +17,7 @@ export default function Footer() {
               <img
                 src="/primelandmetrix.png"
                 alt="PrimelandMetrix Logo"
-                className="h-10 w-auto brightness-0 invert"
+                className="h-10 w-auto"
               />
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
